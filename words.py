@@ -1,0 +1,1 @@
+words = ["rainbow","computer","science""programming","python","mathematics","player","condition","reverse","water","board","geeks","python","jumble","easy","difficult","answer","xylophone","items","lists","Green","Python","Programming","Data Science","Mathematics"]
