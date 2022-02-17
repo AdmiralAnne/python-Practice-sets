@@ -69,7 +69,6 @@ questions = {
     "Is the Earth Round?": "A",
     "Did Bill Gates work for Apple?": "D",
     "Who is Elon Musk?": "C",
-    "How many Exes does Nokyu have ?": "B"
 }
 
 options = [
@@ -82,7 +81,6 @@ options = [
         "D. Isnt he related to microsoft",
     ],
     ["A. An Astronaut", "B. Famous Footballer", "C.X Æ A-12's Daddy", "D. A greek God"],
-    ["A. Way too many", "B. number of Nik's Siblings~", "C. The fingers on your left hand", "D. Saving himslef"],
 ]
 
 
